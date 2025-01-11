@@ -1,5 +1,5 @@
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kani3camp&show_icons=true&count_private=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kani3camp&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kani3camp)
 
