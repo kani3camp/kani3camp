@@ -1,7 +1,7 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kani3camp&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kani3camp)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kani3camp&theme=tokyonight)
 
 <!--
 **kani3camp/kani3camp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
