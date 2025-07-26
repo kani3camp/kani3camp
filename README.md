@@ -1,12 +1,17 @@
+### 📊 GitHub Stats
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kani3camp&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kani3camp&theme=tokyonight)
+
+
+### 🚀 My Tech Stack
 <!--
 NOTE: 
 GitHubのデフォルトCSS (text-decoration: underline) により、<a>タグ内の改行文字にも
 下線が描画されてしまう。
 aタグとimgタグを同じ行に詰めることで改行文字を削除し、下線表示を防いでいる。
 -->
-
-### 🚀 My Tech Stack
 
 <!-- Programming Languages -->
 <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
@@ -70,11 +75,4 @@ aタグとimgタグを同じ行に詰めることで改行文字を削除し、�
 <!-- Game Development -->
 <a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg"
        alt="Unity" width="48"/></a>
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kani3camp&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kani3camp&theme=tokyonight)
 
