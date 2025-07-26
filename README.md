@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
        alt="Docker" width="48"/>
 </a>
-<a href="https://biomejs.dev/">      
+<a href="https://biomejs.dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-plain-wordmark.svg"
        alt="Biome" width="48"/>
   </a>
