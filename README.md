@@ -24,7 +24,7 @@
 <a href="https://biomejs.dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-plain-wordmark.svg"
        alt="Biome" width="48"/>
-  </a>
+</a>
 <a href="https://www.typescriptlang.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
        alt="TypeScript" width="48"/>
