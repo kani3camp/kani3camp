@@ -1,11 +1,11 @@
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kani3camp&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kani3camp&theme=tokyonight)
 
 
-### 🚀 My Tech Stack
+## 🚀 My Tech Stack
 <!--
 NOTE: 
 GitHubのデフォルトCSS (text-decoration: underline) により、<a>タグ内の改行文字にも
@@ -52,7 +52,7 @@ aタグとimgタグを同じ行に詰めることで改行文字を削除し、�
        alt="Notion" width="48"/></a>
 
 
-### 🔧 Experience With
+## 🔧 Experience With
 
 <!-- Programming Languages -->
 <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
