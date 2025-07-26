@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
        alt="Next.js" width="48"/>
 </a>
-<a href="https://www.notion.so/">
+<a href="https://www.notion.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
        alt="Notion" width="48"/>
 </a>
