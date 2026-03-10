@@ -50,7 +50,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -144,14 +144,14 @@ line, [stroke] { stroke: #3d59a1 !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="134.93289179812055" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="134.93289179812055" y="0" width="84.39383577278026" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="219.32672757090083" y="0" width="73.84272590636458" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="293.1694534772654" y="0" width="72.51499048334762" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="365.68444396061307" y="0" width="50.587719128822464" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="416.2721630894355" y="0" width="16.796544682614375" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.0687077720499" y="0" width="15.009134757202457" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="448.07784252925234" y="0" width="11.922157470747706" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="134.38352732876487" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="134.38352732876487" y="0" width="85.59297026132003" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="219.9764975900849" y="0" width="73.54208334699499" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="293.5185809370799" y="0" width="72.21975365312524" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="365.7383345902051" y="0" width="50.59512333737718" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="416.3334579275823" y="0" width="16.84489764691739" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.1783555744997" y="0" width="14.948026711258292" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="448.126382285758" y="0" width="11.873617714241997" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -217,7 +217,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2913 Commits
+                            2914 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
