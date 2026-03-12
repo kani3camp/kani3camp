@@ -50,7 +50,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -144,14 +144,14 @@ line, [stroke] { stroke: #3d59a1 !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.14405340438648" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="155.14405340438648" y="0" width="80.31223448361888" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="235.45628788800536" y="0" width="68.79914768922147" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="304.2554355772268" y="0" width="67.56209875394536" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="371.81753433117217" y="0" width="47.33210162701792" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="419.1496359581901" y="0" width="15.758522852173769" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.9081588103639" y="0" width="13.983986454638682" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="448.89214526500257" y="0" width="11.107854734997398" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.3155548370375" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="157.3155548370375" y="0" width="80.35812763575316" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="237.67368247279066" y="0" width="67.6514251691919" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="305.3251076419826" y="0" width="66.43501295644916" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="371.76012059843174" y="0" width="48.055358331729735" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="419.8154789301615" y="0" width="15.51126749603223" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.3267464261937" y="0" width="13.75070251562425" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.077448941818" y="0" width="10.922551058182068" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -217,7 +217,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2967 Commits
+                            2987 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
