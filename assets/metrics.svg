@@ -37,20 +37,20 @@ line, [stroke] { stroke: #3d59a1 !important; }
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -144,14 +144,14 @@ line, [stroke] { stroke: #3d59a1 !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.68534663201103" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="168.68534663201103" y="0" width="76.60100684297669" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="245.2863534749877" y="0" width="69.1710124529414" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="314.45736592792906" y="0" width="60.93036525259409" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="375.3877311805232" y="0" width="47.722051882399505" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="423.10978306292265" y="0" width="14.261330671827391" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.37111373475005" y="0" width="12.611351898222479" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.9824656329725" y="0" width="10.017534367027425" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.52603535251177" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="168.52603535251177" y="0" width="76.52866265508639" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="245.05469800759818" y="0" width="69.54012255832205" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="314.59482056592026" y="0" width="60.87282086807845" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="375.4676414339987" y="0" width="47.676981807864216" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="423.1446232418629" y="0" width="14.247861862105307" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.39248510396817" y="0" width="12.599441375777966" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.99192647974616" y="0" width="10.008073520253813" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -217,7 +217,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3195 Commits
+                            3196 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
