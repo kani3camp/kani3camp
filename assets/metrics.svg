@@ -49,7 +49,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -144,14 +144,14 @@ line, [stroke] { stroke: #3d59a1 !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.25494676998684" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="179.25494676998684" y="0" width="72.45634397644208" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="251.71129074642892" y="0" width="70.62737721936415" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="322.33866796579304" y="0" width="55.160761885554216" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="377.49942985134726" y="0" width="48.9076385895307" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="426.407068440878" y="0" width="13.106814303168155" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.51388274404616" y="0" width="11.417160823324707" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="450.93104356737086" y="0" width="9.06895643262913" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.54362525026565" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="180.54362525026565" y="0" width="72.09001241340887" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="252.6336376636745" y="0" width="70.27029271758308" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="322.90393038125757" y="0" width="54.88187494466457" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="377.7858053259221" y="0" width="48.79110540135277" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="426.57691072727494" y="0" width="13.040547645115042" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.61745837238993" y="0" width="11.359436873422267" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="450.9768952458122" y="0" width="9.023104754187761" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -217,7 +217,7 @@ line, [stroke] { stroke: #3d59a1 !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3504 Commits
+                            3527 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
